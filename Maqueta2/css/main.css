@@ -1,0 +1,20 @@
+*{
+	background-color: #FAFAFA;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	font-size: 24px;
+}
+.row{
+	margin-top: 2%;
+}
+img{
+	width: 100%;
+}
+.cwhite{
+	padding-right: 92%;
+}
+

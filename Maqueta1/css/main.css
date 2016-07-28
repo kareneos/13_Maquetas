@@ -1,0 +1,28 @@
+*{
+	background-color: #FAFAFA;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+.col-2 img{
+	width: 80px;
+}
+.imagench{
+	height: 150px;
+	width: 150px;
+	float: left;
+}
+p, aside{
+	background-color: #E4E4E4;
+}
+aside{
+	height: 550px;
+}
+.row{
+	margin-top: 2%;
+}
+

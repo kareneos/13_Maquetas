@@ -1,0 +1,27 @@
+*{
+	background-color: #FAFAFA;
+}
+h1{
+	text-align: center;
+	color: grey;
+	font-size: 55px;
+}
+p{
+	text-align: justify;
+	font-size: 25px;
+	background-color: #E4E4E4;
+}
+.row{
+	margin-top: 2%;
+
+}
+img{
+	width: 100%;
+}
+#cuadroch{
+	width: 150px;
+	height: 50px;
+	background-color: grey;
+	margin-top: 2%;
+	border-radius: 10%;
+}
